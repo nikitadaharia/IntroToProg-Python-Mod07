@@ -1,4 +1,9 @@
-# Python script displaying the birth year of an user based on their current age:
+# Pickling and Handling Exceptions in Python:
+
+## Introduction: 
+This paper aims to demonstrates pickling and exception handling feature in python. I explained these features by creating a python script that displays the birth year of a user when the user inputs their current age. The latest version of PyCharm Community version is used for this assignment on a Mac OS.
+
+## Python script displaying the birth year of an user based on their current age:
 
 My script asks the user to input their current age and based on that, it displays the birth year of the user.
 
