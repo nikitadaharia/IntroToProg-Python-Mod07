@@ -11,12 +11,12 @@ I started by creating a new sub-folder called Assignment07 inside of the \_Pytho
 
 Then global variables used throughout the code were defined as seen in Figure 1.
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/Picture1.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/Picture1.png?raw=true)
 ## Figure 1. Snippet of the python script defining the global variables
 
 To keep my data processing distinct from my display, I employ custom functions. I have functions for saving and reading data. These not only pickle or unpickle data, but also contain a try/except block to capture failures. This can happen when there is no file with that name, like when reading a file, or if there is some subtle error with the file name or data (basically the arguments) for saving the data.
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/Picture2.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/Picture2.png?raw=true)
 
 ## Figure 2. Pickling data using Try and Except
 
@@ -24,23 +24,23 @@ Enter the age to list in memory option first asks the user to enter their curren
 
 Try/except blocks were used to catch if the user does not enter their age between 0 and 100 as shown in figure 3.
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/3.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/3.png?raw=true)
 
 ## Figure 3. Exception handling in python using Try and Except
 
 The script is the class consists of functions that process the data to read, add, remove and write data to the file. Code was added after explaining the parameters to add, remove and write data to the list.
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/4.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/4.png?raw=true)
 
 ## Figure 4. Snippet of the python script to add data to the file
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/5.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/5.png?raw=true)
 
 ## Figure 5. Snippet of the python script to display a menu of choices to the user as output
 
 Run the Script by right clicking on the file and choosing Run.
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/6.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/6.png?raw=true)
 
 ## Figure 6. Snippet of output displayed in PyCharm Shell after running the python script.
 
@@ -48,7 +48,7 @@ I chose the 1st option to enter my age to list in memory. On entering my age as 
 
 Run the script on the Terminal window
 
-![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/7.png)
+![](https://github.com/nikitadaharia/IntroToProg-Python-Mod07/blob/main/images/7.png?raw=true)
 
 ## Figure 7. Output displayed in Terminal window after running the python script.
 
